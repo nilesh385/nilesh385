@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS , NextJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS ,MongoDB , NextJS**
 
 - 📫 How to reach me **nileshandnilesh120@gamil.com**
 
